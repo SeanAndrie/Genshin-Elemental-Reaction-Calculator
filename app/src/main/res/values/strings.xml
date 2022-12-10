@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Genshin Elemental Reaction Calculator</string>
+    <string name="anemo">anemo</string>
+    <string name="dendrobtn">dendrobtn</string>
+    <string name="dendro">dendro</string>
+    <string name="cryobtn">cryobtn</string>
+    <string name="anemobtn">anemobtn</string>
+    <string name="electrobtn">electrobtn</string>
+    <string name="geo">geo</string>
+    <string name="geobtn">geobtn</string>
+    <string name="hydro">hydro</string>
+    <string name="hydrobtn">hydrobtn</string>
+    <string name="pyro">pyro</string>
+    <string name="pyrobtn">pyrobtn</string>
+    <string name="restart">restart</string>
+    <string name="plus">+</string>
+    <string name="proceed">Proceed</string>
+    <string name="got_it">Got it!</string>
+    <string name="todo">TODO</string>
+    <color name="paimon_purple">#202442</color>
+    <color name='paimon_light_purple'>#25294A</color>
+    <color name='anemo'>#74C2A8</color>
+    <color name="geo">#FAB632</color>
+    <color name="electro">#AF8EC1</color>
+    <color name="dendro">#A3C63B</color>
+    <color name="hydro">#4CC2F1</color>
+    <color name="pyro">#E67639</color>
+    <color name="cryo">#9FD6E3</color>
+</resources>

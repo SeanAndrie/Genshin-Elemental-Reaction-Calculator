@@ -127,7 +127,7 @@ class MainActivity : AppCompatActivity() {
                // Melt
                if (elements.contains("pyro") and elements.contains("cryo")){
                    reaction = "Melt"
-                   effect = "Deals Extra Damage (2 time multiplier)"
+                   effect = "Deals Extra Damage (2 times multiplier)"
                    displayReaction(reaction, effect)
                }
 
